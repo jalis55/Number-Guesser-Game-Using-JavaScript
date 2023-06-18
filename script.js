@@ -30,8 +30,3 @@ console.log(chances);
     
 
 
-// function check_result(){
-
-    
-// }
-
